@@ -18,7 +18,6 @@ Ponle nombre, asegúrate de que el repositorio sea público y haz clic en el bot
 `«Create repository from template»`.
 
 ![Creating repo from a template step 2](./assets/template-step-2.png)
-
 Ahora ya tienes un repositorio de proyecto personal, junto a una estructura de 
 archivos y carpetas del repositorio de plantillas. Luego trabaja con esto, así 
 como con cualquier otro repositorio personal, realiza una copia en tu computadora 
